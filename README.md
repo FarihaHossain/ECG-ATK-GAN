@@ -19,7 +19,7 @@ https://arxiv.org/pdf/2110.09983.pdf
 
 This code is for our paper "ECG-ATK-GAN: Robustness against Adversarial Attacks on ECGs using Conditional Generative Adversarial Networks" which has been accpeted in MICCAI 2022: AMAI workshop.
 
-![](img1.png)
+![](Fig1.png)
 
 
 ## Pre-requisite
